@@ -120,12 +120,12 @@
   },
   "dependencies": {
     "babel-runtime": "^6.11.6",
-    "prop-types": "^15.5.8",
-    "react-select": "^1.0.0-rc.2",
-    "react-virtualized": "^9.0.0"
+    "prop-types": "^15.5.8"
   },
   "peerDependencies": {
     "react": "^15.3.0 || ^16.0.0-alpha",
-    "react-dom": "^15.3.0 || ^16.0.0-alpha"
+    "react-dom": "^15.3.0 || ^16.0.0-alpha",
+    "react-select": ">=1.0.0-rc.2",
+    "react-virtualized": ">=9.0.0"
   }
 }
